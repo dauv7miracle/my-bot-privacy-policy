@@ -1,2 +1,0 @@
-name: amoi-telegram-bot
-entrypoint: main:fastapi_app

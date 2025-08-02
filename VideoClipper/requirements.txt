@@ -1,0 +1,5 @@
+yt-dlp
+moviepy
+ffmpeg-python
+openai-whisper
+gTTS

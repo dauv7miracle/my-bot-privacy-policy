@@ -1,0 +1,38 @@
+{
+  "videos": [
+    {
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "clip_duration": 60,
+      "language": "en",
+      "post_schedule": [
+        {
+          "clip_index": 1,
+          "post_time": "2025-08-01T10:00:00",
+          "platforms": ["twitter", "instagram", "tiktok"],
+          "caption": "Part 1: You won't believe what happens next! #videoclip #part1"
+        },
+        {
+          "clip_index": 2,
+          "post_time": "2025-08-01T12:00:00",
+          "platforms": ["twitter", "instagram", "tiktok"],
+          "caption": "Part 2 of my crazy story! #videoclip #part2"
+        }
+      ]
+    }
+  ],
+  "api_credentials": {
+    "twitter": {
+      "api_key": "YOUR_API_KEY",
+      "api_key_secret": "YOUR_API_SECRET",
+      "access_token": "YOUR_ACCESS_TOKEN",
+      "access_token_secret": "YOUR_ACCESS_SECRET"
+    },
+    "instagram": {
+      "access_token": "YOUR_INSTAGRAM_ACCESS_TOKEN",
+      "instagram_account_id": "YOUR_INSTAGRAM_ACCOUNT_ID"
+    },
+    "tiktok": {
+      "access_token": "YOUR_TIKTOK_ACCESS_TOKEN"
+    }
+  }
+}
